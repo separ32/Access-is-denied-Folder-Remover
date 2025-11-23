@@ -1,0 +1,5 @@
+{
+  "name": "ForceDelete Assistant",
+  "description": "A utility to generate Windows scripts and registry keys for forcing deletion of locked files and folders, featuring AI-powered safety analysis.",
+  "requestFramePermissions": []
+}
